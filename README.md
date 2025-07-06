@@ -15,3 +15,27 @@
     </p>
   </a>
 </div>
+
+<hr>
+
+<div align="center">
+<h1>SKILLS</h1>
+</div>
+
+<div>
+<h3>LANGUAGES</h3>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
+
+<div>
+<h3>LIBRARIES</h3>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,cmake,electron,flask,opencv,pytorch,threejs)](https://skillicons.dev)
+
+<div>
+<h3>PLATFORMS</h3>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,discord,mongodb,gcp,notion,vscode)](https://skillicons.dev)
