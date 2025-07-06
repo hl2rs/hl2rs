@@ -44,4 +44,6 @@
 <h3>OTHER</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=4)](https://skillicons.dev)<br>
+Missing: SQL, C++, BigQuery, Tableau
+
