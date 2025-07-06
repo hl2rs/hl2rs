@@ -45,7 +45,3 @@
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=4)](https://skillicons.dev)
-
-<div>
-<h3>CONTRIBUTIONS</h3>
-</div>
