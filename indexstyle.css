@@ -159,7 +159,8 @@ body {
   box-shadow: 0px 0px 30px 10px rgb(255, 255, 255);
   border-radius: 50px;
 }
-#githubbutton {
+#githubbutton1,
+#githubbutton2{
   z-index: 9999 !important;
   width: 50%;
   height: 80px;
@@ -175,7 +176,8 @@ body {
   background: radial-gradient(circle, #00000000, #000000);
 }
 
-#githubbutton:hover {
+#githubbutton1:hover,
+#githubbutton2:hover{
   background: radial-gradient(circle, #524a0000, #ffffff00);
   color: rgb(255, 255, 255);
   transition: background-color 0.3s ease;
