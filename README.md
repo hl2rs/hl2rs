@@ -26,22 +26,26 @@
 <h3>LANGUAGES</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py&perline=4)](https://skillicons.dev)
 
 <div>
 <h3>LIBRARIES</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs&perline=4)](https://skillicons.dev)
 
 <div>
 <h3>PLATFORMS</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,ai,ps,discord,mongodb,gcp,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,ai,ps,discord,mongodb,gcp,notion,vscode&perline=4)](https://skillicons.dev)
 
 <div>
 <h3>OTHER</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=4)](https://skillicons.dev)
+
+<div>
+<h3>CONTRIBUTIONS</h3>
+</div>
