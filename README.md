@@ -2,7 +2,7 @@
 <h1>WELCOME!</h1>
 </div>
 
-[![Demo Screenshot](https://github.com/hl2rs/welcome/blob/a1e3c8ee6ac76d6327e0f8197c2222b5038ef4f6/welcome-pic.png)](https://hl2rs.github.io/hl2rs/)
+[![Demo Screenshot](https://github.com/hl2rs/hl2rs/blob/0f9424a3f7819ab951ccd9f375d202b6db10323b/welcome-pic.png)](https://hl2rs.github.io/hl2rs/)
 
 <div align="center">
   <a href="https://hl2rs.github.io/hl2rs/" style="text-decoration: none;">
