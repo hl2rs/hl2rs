@@ -59,5 +59,5 @@
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=4)](https://skillicons.dev)<br>
-Missing: SQL, C++, BigQuery, Tableau, Looker Studio, Google App Script, Zapier, Workato
+*Missing:* SQL, C++, BigQuery, Tableau, Looker Studio, Google App Script, Zapier, Workato
 
