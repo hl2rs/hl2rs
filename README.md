@@ -41,7 +41,7 @@
 I'm Brendan, a full time developer at Logitech (year 7) and senior at ASU Ira A Fulton School of Engineering.</p>
 <p>I recently joined GitHub and made it a goal of mine to post a new complex open source code, mostly AI related, every month for the next twelve months - I hope that you enjoy and find use in the contribuition!</p>
 <p>A bit more about me:<br>
-I've spent the last 7 years learning about coding, cloud architecture, and data in a professional setting while working as a leader in software and data at Logitech, leading a business group.</p>
+I've spent the last 7 years learning about coding, cloud architecture, and data - working as a leader in software and data at Logitech, leading a business group.</p>
 <br>
 
 <hr>
