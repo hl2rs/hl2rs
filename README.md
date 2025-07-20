@@ -60,7 +60,7 @@ I've spent the last 7 years working with coding, cloud architecture, and data - 
 <h3>LIBRARIES</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs&perline=4)](https://skillicons.dev)
 
 <div>
 <h3>PLATFORMS</h3>
