@@ -1,6 +1,5 @@
-[![Demo Screenshot](https://github.com/hl2rs/hl2rs/blob/4eb34ed4fb5a1714120498079367464c4a77827c/welcome.png)](https://hl2rs.github.io/hl2rs/)
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://hl2rs.github.io/hl2rs/" style="text-decoration: none;">
     <p>
       <strong>
@@ -28,7 +27,7 @@
       </strong>
     </p>
   </a>
-</div>
+</div> -->
 
 <hr>
 
