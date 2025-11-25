@@ -35,10 +35,10 @@
 <h1>ABOUT</h1>
 </div>
 <br>
-<p>Hello! 
+<p>Hello!</p>
 <br>
-I'm Brendan, a full time developer at Logitech (year 7) and senior at ASU Ira A Fulton School of Engineering.</p>
-I've spent the last 7 years working with coding, cloud architecture, and data - currently leading a business group on software and data solutions at Logitech.</p>
+<p></p>I'm Brendan, a full time developer at Logitech (year 7) and senior at ASU Ira A Fulton School of Engineering.</p>
+<p></p>I've spent the last 7 years working with coding, cloud architecture, and data - currently leading a business group on software and data solutions at Logitech.</p>
 <br>
 
 <hr>
