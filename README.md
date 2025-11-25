@@ -36,8 +36,8 @@
 </div>
 <br>
 <p>Hello!</p>
-<p>I'm Brendan, a full time developer at Logitech (year 7) and senior at ASU Ira A Fulton School of Engineering.</p>
-<p>I've spent the last 7 years at Logitech working with coding, data, cloud architecture, and identifying weaknesses - currently leading a business groups solutions and development.</p>
+<p>I'm Brendan, a full time developer and leader at Logitech - additionally, senior at ASU Ira A Fulton School of Engineering.</p>
+<p>I've spent the last 7 years at Logitech working with coding, data, cloud architecture, and identifying weaknesses - currently leading a business group solutions and development.</p>
 <p>While I don't post many public repositories I hope you can enjoy what is public. I hope to post a number of cool things per year.</p>
 <br>
 <p>-Brendan</p>
