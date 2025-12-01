@@ -53,7 +53,7 @@
 <h3>LANGUAGES</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,react,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,reactnative,&perline=4)](https://skillicons.dev)
 
 <div>
 <h3>LIBRARIES</h3>
