@@ -53,5 +53,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,ai,ps,discord,mongodb,gcp,notion,vscode&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=10)](https://skillicons.dev)
+<br>
 *Missing:* SQL, C++, BigQuery, Tableau, Looker Studio, Google App Script, Zapier, Workato
 
