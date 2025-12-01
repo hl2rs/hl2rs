@@ -53,24 +53,24 @@
 <h3>LANGUAGES</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,reactnative,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,react,&perline=8)](https://skillicons.dev)
 
 <div>
 <h3>LIBRARIES</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs&perline=8)](https://skillicons.dev)
 
 <div>
 <h3>PLATFORMS</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,ai,ps,discord,mongodb,gcp,notion,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,ai,ps,discord,mongodb,gcp,notion,vscode&perline=8)](https://skillicons.dev)
 
 <div>
 <h3>OTHER</h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=4)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=8)](https://skillicons.dev)<br>
 *Missing:* SQL, C++, BigQuery, Tableau, Looker Studio, Google App Script, Zapier, Workato
 
