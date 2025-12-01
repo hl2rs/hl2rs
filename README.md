@@ -48,14 +48,9 @@
 <div align="center">
 <h1>SKILLS</h1>
 </div>
-
-<div>
-<h3>LANGUAGES</h3>
-</div>
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,react,&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vue,npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs&perline=10)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,ai,ps,discord,mongodb,gcp,notion,vscode&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=10)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=10)](https://skillicons.dev)
 *Missing:* SQL, C++, BigQuery, Tableau, Looker Studio, Google App Script, Zapier, Workato
 
