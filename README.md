@@ -37,8 +37,8 @@
 <br>
 <p>Hello!</p>
 <p>I'm Brendan, a Logitech employee and senior student at ASU.</p>
-<p>For the last 7+ years I've been at Logitech working with code, data, cloud architecture, and identifying operational weaknesses - where I currently leading a business group on solutions and development.</p>
-<p>In addition to that business, I collaborate other Logitech brands and global leaders and have been the engineering lead for huge projects including for Logitech G and Logitech For Business.</p>
+<p>For the last 7+ years I've been at Logitech working with code, data, cloud architecture, and identifying operational weaknesses - where I currently lead Ultimate Ears on solutions development.</p>
+<p>In addition to UE, I collaborate other Logitech brands and global executive leaders noteably having been the engineering lead for huge projects including for Logitech G and Logitech For Business.</p>
 <br>
 <p>-Brendan</p>
 <br>
