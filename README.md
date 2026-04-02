@@ -39,8 +39,7 @@
 <p>I'm Brendan, a Logitech employee and senior student at ASU.</p>
 <p>For the last 7+ years I've been at Logitech working with code, data, cloud architecture, and identifying operational weaknesses - where I currently lead Ultimate Ears, previously Blue Microphones and Logitech For Creators.</p>
 <p>In addition to UE, I often collaborate other Logitech brands and global executive leaders noteably as the lead engineer and architect for mega projects including for Logitech G and Logitech For Business.</p>
-<br>
-<p>-Brendan</p>
+<p>-Brendan 🤙</p>
 <br>
 
 <hr>
