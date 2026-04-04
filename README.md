@@ -37,7 +37,7 @@
 <br>
 <p>Hello!</p>
 <p>I'm Brendan, a Logitech employee and senior student at ASU.</p>
-<p>For the last 7+ years I've been at Logitech working with code, data, cloud architecture, and identifying operational weaknesses - where I currently lead one of the businesses.</p>
+<p>For the last 7+ years I've been at Logitech and working with code, data, cloud arch, and identifying operational weakness - currently leading one of the businesses on custom software and data solutions.</p>
 <p>-Brendan 🤙</p>
 <br>
 
