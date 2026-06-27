@@ -5,7 +5,7 @@
 ### Full-Stack Developer | React.js | Node.js | UI/UX | Creative Tech
 
 <p>
-  I build full-stack web applications, interactive interfaces, and tools that connect design, data, and engineering.
+  I specialize in building full stack web platforms, interfaces, and tools that connect design, data, and engineering.
 </p>
 
 <br />
@@ -55,19 +55,3 @@
 </p>
 
 </div>
-
----
-
-<div align="center">
-
-## 🚀 What I Like Building
-
-</div>
-
-```js
-const brendan = {
-  role: "Full-Stack Developer",
-  focus: ["React", "Node.js", "UI/UX", "Data Tools", "Automation"],
-  interests: ["Web Apps", "Creative Tech", "Dashboards", "3D Web Experiences"],
-  currentlyBuilding: "Useful full-stack applications with clean design"
-};
