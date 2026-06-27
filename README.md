@@ -1,18 +1,73 @@
+<div align="center">
 
-<p>Hello!</p>
-<p>-Brendan 🤙</p>
-<br>
+# Hey, I'm Brendan 🤙
 
-<hr>
+### Full-Stack Developer | React.js | Node.js | UI/UX | Creative Tech
 
-<div align="left">
-<h1>SKILLS</h1>
+<p>
+  I build full-stack web applications, interactive interfaces, and tools that connect design, data, and engineering.
+</p>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=35&fontSize=32" />
+
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,react,java,tailwind&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vue,npm,nodejs,cmake,electron,flask,opencv,pytorch,threejs&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,ai,ps,discord,mongodb,gcp,vite,notion,vscode&perline=10)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=anaconda,powershell&perline=10)](https://skillicons.dev)
-<br>
-*Missing:* SQL, BigQuery, Tableau, Looker Studio, Google App Script, Zapier, Workato
+---
 
+<div align="center">
+
+## 🛠️ Skills
+
+### Frontend
+
+[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,tailwind,threejs,vite&perline=8)](https://skillicons.dev)
+
+### Backend & Tools
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,npm,java,cpp,flask,cmake,electron,powershell&perline=8)](https://skillicons.dev)
+
+### Data, Cloud & Creative
+
+[![Data and Creative Skills](https://skillicons.dev/icons?i=mysql,mongodb,gcp,opencv,pytorch,anaconda,ai,ps&perline=8)](https://skillicons.dev)
+
+### Workflow
+
+[![Workflow Skills](https://skillicons.dev/icons?i=discord,notion,vscode&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📌 Additional Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BigQuery-Data%20Warehouse-669DF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-Analytics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-Dashboards-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-Automation-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zapier-Automation-FF4A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workato-Integration-purple?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 What I Like Building
+
+</div>
+
+```js
+const brendan = {
+  role: "Full-Stack Developer",
+  focus: ["React", "Node.js", "UI/UX", "Data Tools", "Automation"],
+  interests: ["Web Apps", "Creative Tech", "Dashboards", "3D Web Experiences"],
+  currentlyBuilding: "Useful full-stack applications with clean design"
+};
