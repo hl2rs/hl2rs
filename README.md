@@ -1,40 +1,4 @@
 
-<!-- <div align="center">
-  <a href="https://hl2rs.github.io/hl2rs/" style="text-decoration: none;">
-    <p>
-      <strong>
-        <kbd style="padding: 10px 20px; background: #28a745; color: white; border-radius: 6px; display: inline-block;">
-          CLICK TO GET THE LATEST REPO
-        </kbd>
-      </strong>
-    </p>
-  </a>
-    <a href="https://www.linkedin.com/in/brendanstewart1/" style="text-decoration: none;">
-    <p>
-      <strong>
-        <kbd style="padding: 10px 20px; background: #28a745; color: white; border-radius: 6px; display: inline-block;">
-          LinkedIn
-        </kbd>
-      </strong>
-    </p>
-  </a>
-      <a href="https://codepen.io/hl2rs" style="text-decoration: none;">
-    <p>
-      <strong>
-        <kbd style="padding: 10px 20px; background: #28a745; color: white; border-radius: 6px; display: inline-block;">
-          CodePen
-        </kbd>
-      </strong>
-    </p>
-  </a>
-</div> -->
-
-<hr>
-
-<div align="center">
-<h1>ABOUT</h1>
-</div>
-<br>
 <p>Hello!</p>
 <p>-Brendan 🤙</p>
 <br>
