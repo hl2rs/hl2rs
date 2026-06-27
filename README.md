@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=35&fontSize=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=35&fontSize=32" />
 
 </div>
 
