@@ -5,7 +5,7 @@
 
 <hr>
 
-<div align="center">
+<div align="left">
 <h1>SKILLS</h1>
 </div>
 
