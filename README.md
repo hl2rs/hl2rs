@@ -9,15 +9,14 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-00C9FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Solutions-00C9FF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Creative%20Tech-7F00FF?style=for-the-badge&logo=sparkfun&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF4ECD?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 </div>
 
 ---
-
+github.com/hl2rs
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111827,50:1E3A8A,100:7C3AED&text=🛠️%20Skills&fontColor=ffffff&fontSize=34&fontAlign=50&fontAlignY=55" />
