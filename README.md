@@ -4,9 +4,9 @@
 
 <br />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=00C9FF&center=true&vCenter=true&width=900&lines=Building+full-stack+web+platforms;Designing+clean+and+interactive+interfaces;Connecting+design,+data,+and+engineering;Creating+tools+that+solve+real+problems" />
-</p>
+<!-- <p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=00C9FF&center=true&vCenter=true&width=900&lines=Building+full-stack+platforms;Designing+clean+and+interactive+interfaces;Connecting+design,+data,+and+engineering;Creating+tools+that+solve+real+problems" />
+</p> -->
 
 <p>
   <img src="https://img.shields.io/badge/Full--Stack%20Solutions-00C9FF?style=for-the-badge&logo=react&logoColor=white" />
