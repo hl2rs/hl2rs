@@ -16,7 +16,7 @@
 </div>
 
 ---
-github.com/hl2rs
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:111827,50:1E3A8A,100:7C3AED&text=🛠️%20Skills&fontColor=ffffff&fontSize=34&fontAlign=50&fontAlignY=55" />
