@@ -1,5 +1,4 @@
 
-@@ -1,119 +1 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,50:92FE9D,100:7F00FF&text=Hey,%20I'm%20Brendan%20🤙&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn" />
