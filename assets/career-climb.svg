@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="380" viewBox="0 0 460 380" fill="none" role="img" aria-label="Career climb at Logitech: Manufacturing → Analyst → Engineer → Solutions Developer on the IT Tiger Team">
+<title>Career climb at Logitech: Manufacturing → Analyst → Engineer → Solutions Developer on the IT Tiger Team</title>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}.mono{font-family:'Cascadia Code', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm-hide{display:none}}.flag{animation:wave 1.6s ease-in-out infinite;transform-box:fill-box;transform-origin:left center}@keyframes wave{0%,100%{transform:skewY(0)}50%{transform:skewY(-10deg)}}.s0{animation:s0 7s ease-out -5.6s infinite}@keyframes s0{0%{opacity:.25}4%,94%{opacity:1}100%{opacity:.25}}.s1{animation:s1 7s ease-out -5.6s infinite}@keyframes s1{0%,20%{opacity:.25}24%,94%{opacity:1}100%{opacity:.25}}.s2{animation:s2 7s ease-out -5.6s infinite}@keyframes s2{0%,45%{opacity:.25}49%,94%{opacity:1}100%{opacity:.25}}.s3{animation:s3 7s ease-out -5.6s infinite}@keyframes s3{0%,70%{opacity:.25}74%,94%{opacity:1}100%{opacity:.25}}</style>
+<defs><clipPath id="clip"><rect width="460" height="380" rx="18"/></clipPath><linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0.000" stop-color="#FFB547" stop-opacity="1"/><stop offset="0.500" stop-color="#FF5F6D" stop-opacity="1"/><stop offset="1.000" stop-color="#FF5FA2" stop-opacity="1"/></linearGradient><linearGradient id="step" x1="0" y1="0" x2="0" y2="1"><stop offset="0.000" stop-color="#FFB547" stop-opacity="1"/><stop offset="1.000" stop-color="#FF5F6D" stop-opacity="1"/></linearGradient><linearGradient id="climber" x1="0" y1="0" x2="1" y2="1"><stop offset="0.000" stop-color="#FFFFFF" stop-opacity="1"/><stop offset="1.000" stop-color="#FFB547" stop-opacity="1"/></linearGradient><radialGradient id="glow"><stop offset="0.000" stop-color="#FFB547" stop-opacity="0.3"/><stop offset="1.000" stop-color="#FFB547" stop-opacity="0"/></radialGradient><filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<g clip-path="url(#clip)">
+<rect width="460" height="380" fill="#0D1117"/>
+<circle cx="400" cy="60" r="200" fill="url(#glow)"/>
+<text x="22" y="34" font-size="13" fill="#FFB547" font-weight="600" class="mono">career.climb()</text>
+<text x="438" y="34" font-size="12" fill="#8B949E" text-anchor="end" class="mono">Dec 2018 → Present</text>
+<line x1="16" y1="330" x2="444" y2="330" stroke="#30363D"/>
+<rect x="16" y="272" width="104" height="58" rx="8" fill="url(#step)" fill-opacity="0.20"/>
+<rect class="s0" x="16" y="272" width="104" height="4" rx="2" fill="#FFB547"/>
+<text x="68" y="296" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Manufacturing</text>
+<text x="68" y="313" font-size="10.5" fill="#E6D5C3" text-anchor="middle">Factory floor</text>
+<rect x="124" y="214" width="104" height="116" rx="8" fill="url(#step)" fill-opacity="0.30"/>
+<rect class="s1" x="124" y="214" width="104" height="4" rx="2" fill="#FFB547"/>
+<text x="176" y="238" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Analyst</text>
+<text x="176" y="255" font-size="10.5" fill="#E6D5C3" text-anchor="middle">Data &amp; automation</text>
+<rect x="232" y="156" width="104" height="174" rx="8" fill="url(#step)" fill-opacity="0.40"/>
+<rect class="s2" x="232" y="156" width="104" height="4" rx="2" fill="#FFB547"/>
+<text x="284" y="180" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Engineer</text>
+<text x="284" y="197" font-size="10.5" fill="#E6D5C3" text-anchor="middle">UE Pro automation</text>
+<rect x="340" y="98" width="104" height="232" rx="8" fill="url(#step)" fill-opacity="0.50"/>
+<rect class="s3" x="340" y="98" width="104" height="4" rx="2" fill="#FFB547"/>
+<text x="392" y="122" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Solutions</text>
+<text x="392" y="138" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Developer</text>
+<text x="392" y="155" font-size="10.5" fill="#E6D5C3" text-anchor="middle">IT Tiger Team</text>
+<path d="M428 98V62" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+<path class="flag" d="M428 62h20l-5 7 5 7h-20z" fill="#FF5F6D"/>
+<circle r="10" fill="#FFB547" filter="url(#soft)"><animateMotion dur="7s" begin="-5.6s" repeatCount="indefinite" path="M68 262Q122.0 168 176 204Q230.0 110 284 146Q338.0 52 392 88" calcMode="linear" keyPoints="0;0;0.333;0.333;0.667;0.667;1;1" keyTimes="0;0.1;0.2;0.35;0.45;0.6;0.7;1"/></circle>
+<circle r="7" fill="url(#climber)"><animateMotion dur="7s" begin="-5.6s" repeatCount="indefinite" path="M68 262Q122.0 168 176 204Q230.0 110 284 146Q338.0 52 392 88" calcMode="linear" keyPoints="0;0;0.333;0.333;0.667;0.667;1;1" keyTimes="0;0.1;0.2;0.35;0.45;0.6;0.7;1"/></circle>
+<rect x="22.0" y="344" width="191.3" height="24" rx="12.0" fill="#FFB547" fill-opacity="0.12" stroke="#FFB547" stroke-opacity="0.5"/><text x="117.6" y="360.0" font-size="11" fill="#FFE7C2" font-weight="600" text-anchor="middle">Employee of the Year · 2023</text>
+<rect x="221.3" y="344" width="141.1" height="24" rx="12.0" fill="#FFB547" fill-opacity="0.12" stroke="#FFB547" stroke-opacity="0.5"/><text x="291.9" y="360.0" font-size="11" fill="#FFE7C2" font-weight="600" text-anchor="middle">Spotlight Award × 4</text>
+</g>
+<rect x=".75" y=".75" width="458.5" height="378.5" rx="17.25" stroke="url(#border)" stroke-opacity=".6" stroke-width="1.5"/>
+</svg>
