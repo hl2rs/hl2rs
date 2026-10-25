@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="46" viewBox="0 0 218 46" fill="none" role="img" aria-label="hello@platmesh.com">
+<title>hello@platmesh.com</title>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}.mono{font-family:'Cascadia Code', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}.rm-hide{display:none}}.sheen{animation:sweep 5s ease-in-out infinite}@keyframes sweep{0%{transform:translateX(-80px) skewX(-20deg)}45%,100%{transform:translateX(298px) skewX(-20deg)}}</style>
+<defs><clipPath id="clip"><rect width="218" height="46" rx="23"/></clipPath><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0.000" stop-color="#FF5FA2" stop-opacity="1"/><stop offset="1.000" stop-color="#7F5AF0" stop-opacity="1"/></linearGradient><linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0.000" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.500" stop-color="#FFFFFF" stop-opacity="0.35"/><stop offset="1.000" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#clip)">
+<rect width="218" height="46" fill="url(#bg)"/>
+<rect class="sheen" y="-10" width="50" height="66" fill="url(#sheen)"/>
+</g>
+<circle cx="24" cy="23" r="15" fill="#FFFFFF" fill-opacity=".2"/>
+<g transform="translate(24 23)"><rect x="-8" y="-6" width="16" height="12" rx="2" stroke="#FFFFFF" stroke-width="1.8"/><path d="M-7.5 -5L0 1L7.5 -5" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round"/></g>
+<text x="124.0" y="28.5" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">hello@platmesh.com</text>
+</svg>
