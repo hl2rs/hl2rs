@@ -14,8 +14,6 @@
   <a href="#contact"><b>Contact</b></a>
 </p>
 
-<br />
-
 <!-- ─────────────────────────────── II. ABOUT ─────────────────────────────── -->
 
 <a name="about"></a>
@@ -25,27 +23,20 @@
   <tr>
     <td width="50%" valign="top">
 
-### Hi, I'm Brendan 👋
+**Hi, I'm Brendan 👋**
 
-I'm a **Software Engineer & Architect** on Logitech's elite **IT Software Development Tiger Team**, where I lead the engineering of high-stakes software with company-wide impact.
+I lead engineering on Logitech's elite **IT Software Development Tiger Team**, building high-stakes software with company-wide impact.
 
 My path has been anything but typical. I joined Logitech in **2018 on the manufacturing floor** and was promoted many times, through **analyst** and then **engineering** roles. Along the way I helped digitally transform businesses like **Ultimate Ears Pro** with heavy automation and better data, so decision makers can move faster.
 
-- 📍 Based in **Studio City, CA**
-- 🤖 **AI Champion** for the Irvine & Westlake Village offices
-- 🤝 **Technical Officer & Mentor**, Google Developer Group
-- 🏆 **Employee of the Year** (2023) · **4× Spotlight Award**
-
 </td>
     <td width="50%" valign="top">
-      <img src="./assets/about-code.svg" alt="A code editor showing brendan.js: a JavaScript object describing Brendan's role, team, location, school, titles, stack and hobbies" width="400" />
+      <img src="./assets/about-code.svg" alt="A code editor showing brendan.js: a JavaScript object describing what Brendan builds, his stack and cloud tools" width="400" />
     </td>
   </tr>
 </table>
 
 <img src="./assets/education.svg" alt="Education: Arizona State University, B.S. Graphical Information Technology (Full Stack Web Development), 4.0 GPA, graduating Fall 2026" width="100%" />
-
-<br />
 
 <!-- ─────────────────────────── III. SKILLS & TOOLS ─────────────────────────── -->
 
@@ -63,21 +54,19 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
   <tr>
     <td width="50%" valign="top">
 
-#### 🛠️ Development Practices & Platforms
+**🛠️ Development Practices**
 
 - 🏗️ **Full-stack architecture**: React/Vue front ends, Node.js & Go services, REST APIs
-- 🤖 **AI engineering**: LLM model routing, AI assistants & bots, AI-powered tools
-- ⚙️ **Automation**: workflow and operations automation with Apps Script & APIs
-- 📊 **Data pipelines & BI**: web store → BigQuery → Data Studio / Tableau
-- 👁️ **Computer vision & imaging** for QA and manufacturing
-- 🔐 **Security-minded engineering**: self-healing firewalls, vendor assessment
+- ⚙️ **Automation-first**: Apps Script and API workflows that remove manual work
+- 📊 **Data-driven delivery**: pipelines from web store to BigQuery, Data Studio & Tableau
 - ☁️ **Cloud deployment** on Google Cloud Run & Vercel
-- 🌱 **Version control & mentoring** with Git, GitHub and code reviews
+- 🔍 **Code review & version control** with Git and GitHub
+- 🤝 **Mentoring & knowledge sharing** across teams and communities
 
 </td>
     <td width="50%" valign="top">
 
-#### 📜 Certifications
+**📜 Certifications**
 
 | Certification | Issuer |
 | :-- | :-- |
@@ -92,18 +81,10 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
   </tr>
 </table>
 
-<br />
-
 <!-- ─────────────────────────── IV. FEATURED PROJECTS ─────────────────────────── -->
 
 <a name="projects"></a>
 <img src="./assets/headers/projects.svg" alt="03 · Featured Projects" width="100%" />
-
-<p align="center">
-  <img src="./assets/projects/ask-ue.svg" alt="Ask UE: an AI product assistant for Ultimate Ears PRO. React, Vite, Kapa AI SDK, Express and Vercel, with an animated chat mockup" width="100%" />
-  <br />
-  <sub>🔒 Private repository · Built for Ultimate Ears PRO</sub>
-</p>
 
 <p align="center">
   <a href="https://github.com/hl2rs/Web-Auditor">
@@ -119,8 +100,6 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
   <sub>🚧 In active development · Coming soon</sub>
 </p>
 
-<br />
-
 <!-- ───────────────────── V. EXPERIENCE, INTERESTS & GOALS ───────────────────── -->
 
 <a name="experience"></a>
@@ -130,24 +109,31 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
 
 | | Role | Organization | Period |
 | :-: | :-- | :-- | :-- |
-| <img src="./assets/logos/logitech.svg" alt="Logitech" width="36" /> | **Solutions Developer**<br /><sub>IT Software Development Tiger Team: leading high-stakes software with company-wide impact</sub> | Logitech | Dec 2018 – Present |
-| <img src="./assets/logos/logitech.svg" alt="Logitech" width="36" /> | **AI Champion**<br /><sub>Driving AI adoption for the Southern California offices</sub> | Logitech · Irvine & Westlake Village | Current |
+| <img src="./assets/logos/logitech.svg" alt="Logitech" width="36" /> | **Solutions Developer**<br /><sub>IT Software Development Tiger Team</sub> | Logitech | Dec 2018 – Present |
+| <img src="./assets/logos/logitech.svg" alt="Logitech" width="36" /> | **AI Champion**<br /><sub>Driving AI adoption across the Southern California offices</sub> | Logitech · Irvine & Westlake Village | Current |
 | <img src="./assets/logos/gdg.svg" alt="Google Developer Group" width="36" /> | **Technical Officer & Mentor**<br /><sub>Mentoring the next wave of developers</sub> | Google Developer Group | Apr 2026 – Present |
-| <img src="./assets/logos/ue.svg" alt="Ultimate Ears" width="36" /> | **Manufacturing → Analyst → Engineer**<br /><sub>Promoted repeatedly; digitally transformed UE Pro with automation & data</sub> | Logitech · Ultimate Ears Pro | Earlier roles |
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/career-climb.svg" alt="An animated staircase showing the career climb at Logitech: Manufacturing, Analyst, Engineer, then Solutions Developer on the IT Tiger Team" width="400" />
-    </td>
+
+**🏆 Awards & Honors**
+
+| Award | Year |
+| :-- | :-- |
+| 🥇 **Employee of the Year**<br /><sub>Logitech</sub> | 2023 |
+| ✨ **Spotlight Award**<br /><sub>Logitech</sub> | 2022 · 2023 · 2024 · 2026 |
+| 🐾 **Top Volunteer**<br /><sub>K9 Connection</sub> | 2023 |
+
+</td>
     <td width="50%" valign="top">
 
-#### 🚀 Impact Highlights: *Led development of…*
+**🚀 Impact Highlights: *Led development of…***
 
 **🌐 Platforms**
 - Global on-demand shopping, warehouse & logistics platform for employees and 3rd parties
-- Financial operations, vendor assessment, and gaming events & competitions platforms
-- Internal company tools and platforms
+- Financial operations, vendor assessment, gaming events & internal company tools
 
 **🤖 AI**
 - CLI and AI model router
@@ -157,7 +143,7 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
 
 **👁️ Vision & Imaging**
 - QA computer vision models that detect defects down to the millimeter on clear surfaces
-- Imaging algorithms and interfaces that enhance operations and manufacturing
+- Imaging algorithms and interfaces for operations & manufacturing
 
 **🔐 Security & Data**
 - Self-healing web firewall
@@ -167,29 +153,15 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
   </tr>
 </table>
 
-### 🏆 Awards & Honors
-
-| Award | Organization | Year |
-| :-- | :-- | :-- |
-| 🥇 **Employee of the Year** | Logitech | 2023 |
-| ✨ **Spotlight Award** | Logitech | 2022 · 2023 · 2024 · 2026 |
-| 🐾 **Top Volunteer** | K9 Connection | 2023 |
-
 <table>
   <tr>
     <td width="50%" valign="top">
 
-#### 🎯 Goals
+**🎯 Goals**
 
 - 🏛️ Grow into a **software architect** designing **AI-native platforms at scale**
 - 🌱 Keep **mentoring the next wave of developers** through Google Developer Groups
 - ✨ Ship products that blend **great design, data, and engineering**
-
-#### 🌄 Interests
-
-- ✈️ **Traveling**: new places, cultures, and ideas
-- 🥾 **Hiking**: trails, summits, and fresh air
-- 📚 **Learning**: always leveling up, currently finishing my B.S. at ASU
 
 </td>
     <td width="50%" valign="top">
@@ -197,8 +169,6 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
     </td>
   </tr>
 </table>
-
-<br />
 
 <!-- ─────────────────────────────── VI. CONTACT ─────────────────────────────── -->
 
@@ -212,16 +182,14 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
     </td>
     <td width="50%" valign="middle">
 
-### Let's build something together 🤝
+**Let's build something together 🤝**
 
 I'm always happy to talk about **full-stack architecture**, **AI tooling**, **automation**, or **mentoring**. Reach out anytime!
 
 <p>
-  <a href="mailto:b412rs@gmail.com"><img src="./assets/buttons/email.svg" alt="Email: b412rs@gmail.com" height="46" /></a>
+  <a href="mailto:hello@platmesh.com"><img src="./assets/buttons/email.svg" alt="Email: hello@platmesh.com" height="46" /></a>
   <!-- TODO: replace https://your-website.com with your personal website URL -->
   <a href="https://your-website.com"><img src="./assets/buttons/website.svg" alt="Personal website" height="46" /></a>
-</p>
-<p>
   <a href="https://www.linkedin.com/in/brendanstewart1"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" height="46" /></a>
   <a href="https://github.com/hl2rs"><img src="./assets/buttons/github.svg" alt="GitHub" height="46" /></a>
 </p>
@@ -230,6 +198,6 @@ I'm always happy to talk about **full-stack architecture**, **AI tooling**, **au
   </tr>
 </table>
 
-<img src="./assets/footer.svg" alt="Thanks for stopping by! Let's build something great together." width="100%" />
+<img src="./assets/footer.svg" alt="Thanks for stopping by!" width="100%" />
 
 <p align="center"><a href="#top">⬆ Back to top</a></p>
