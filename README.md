@@ -25,7 +25,7 @@
 
 **Hi, I'm Brendan 👋**
 
-I am a engineer on Logitech's **IT Software Development Tiger Team**, building software with company-wide impact as well as lead data and software engineering for **Ultimate Ears Pro**.
+I am a engineer on Logitech's **IT Software Development Tiger Team** and **Ultimate Ears Pro**, building software with company-wide impact.
 
 My path has been anything but typical. I joined Logitech in **2018 on the manufacturing floor** and was promoted numerous times, through **analyst** and then **engineering** roles. Along the way I helped digitally transform businesseswith heavy automation, better data accessibility, and thoughtful software.
 </td>
