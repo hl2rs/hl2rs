@@ -188,8 +188,7 @@ I'm always happy to talk about **full-stack architecture**, **AI tooling**, **au
 
 <p>
   <a href="mailto:hello@platmesh.com"><img src="./assets/buttons/email.svg" alt="Email: hello@platmesh.com" height="46" /></a>
-  <!-- TODO: replace https://your-website.com with your personal website URL -->
-  <a href="https://your-website.com"><img src="./assets/buttons/website.svg" alt="Personal website" height="46" /></a>
+  <a href="https://platmesh.com"><img src="./assets/buttons/website.svg" alt="Personal website" height="46" /></a>
   <a href="https://www.linkedin.com/in/brendanstewart1"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" height="46" /></a>
   <a href="https://github.com/hl2rs"><img src="./assets/buttons/github.svg" alt="GitHub" height="46" /></a>
 </p>
