@@ -138,12 +138,12 @@ right, alternating between dark and light cards.</p>
   <div class="c">
   <table>
     <tr><th>Role</th><th>Organization</th><th>Period</th></tr>
-    <tr><td><b>Solutions Developer</b><br>IT Software Development Tiger Team</td><td>Logitech</td><td>Dec 2018 &ndash; Present</td></tr>
+    <tr><td><b>Full Stack Developer</b><br>IT Software Development Tiger Team</td><td>Logitech</td><td>Dec 2018 &ndash; Present</td></tr>
     <tr><td><b>AI Champion</b><br>Driving AI adoption across the Southern California offices</td><td>Logitech &middot; Irvine &amp; Westlake Village</td><td>Current</td></tr>
     <tr><td><b>Technical Officer &amp; Mentor</b><br>Mentoring the next wave of developers</td><td>Google Developer Group</td><td>Apr 2026 &ndash; Present</td></tr>
   </table>
   <p><span class="k">Career climb:</span> Manufacturing (factory floor) &rarr; Analyst (data &amp; automation) &rarr;
-  Engineer (UE Pro automation) &rarr; Solutions Developer (IT Tiger Team), shown as an animated staircase.</p>
+  Full Stack Developer (UE Pro &amp; IT Tiger Team), shown as an animated staircase.</p>
   <p><span class="k">Impact highlights &mdash; led development of:</span></p>
   <ul>
     <li><b>Platforms:</b> a global on-demand shopping, warehouse &amp; logistics platform for employees and 3rd

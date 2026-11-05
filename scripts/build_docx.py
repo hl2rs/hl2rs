@@ -140,7 +140,7 @@ para("**Features:** AI itineraries, budgets, recommendations. In active developm
 h1("Experience, Interests & Goals")
 h2("Experience")
 for b in [
-    "**Solutions Developer**, Logitech (IT Software Development Tiger Team), Dec 2018 – Present",
+    "**Full Stack Developer**, Logitech (IT Software Development Tiger Team), Dec 2018 – Present",
     "**AI Champion**, Logitech, Irvine & Westlake Village: driving AI adoption across the Southern California "
     "offices, Current",
     "**Technical Officer & Mentor**, Google Developer Group: mentoring the next wave of developers, "
@@ -152,8 +152,7 @@ h2("Career Path (Dec 2018 – Present)")
 for b in [
     "Manufacturing: factory floor",
     "Analyst: data & automation",
-    "Engineer: UE Pro automation",
-    "Solutions Developer: IT Tiger Team",
+    "Full Stack Developer: UE Pro & IT Tiger Team",
 ]:
     bullet(b)
 

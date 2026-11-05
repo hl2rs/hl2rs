@@ -109,14 +109,14 @@ My path has been anything but typical. I joined Logitech in **2018 on the manufa
 
 | | Role | Organization | Period |
 | :-: | :-- | :-- | :-- |
-| <img src="./assets/logos/logitech.svg" alt="Logitech" width="36" /> | **Solutions Developer**<br /><sub>IT Software Development Tiger Team</sub> | Logitech | Dec 2018 – Present |
+| <img src="./assets/logos/logitech.svg" alt="Logitech" width="36" /> | **Full Stack Developer**<br /><sub>IT Software Development Tiger Team</sub> | Logitech | Dec 2018 – Present |
 | <img src="./assets/logos/logitech.svg" alt="Logitech" width="36" /> | **AI Champion**<br /><sub>Driving AI adoption across the Southern California offices</sub> | Logitech · Irvine & Westlake Village | Current |
 | <img src="./assets/logos/gdg.svg" alt="Google Developer Group" width="36" /> | **Technical Officer & Mentor**<br /><sub>Mentoring the next wave of developers</sub> | Google Developer Group | Apr 2026 – Present |
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/career-climb.svg" alt="An animated staircase showing the career climb at Logitech: Manufacturing, Analyst, Engineer, then Solutions Developer for Ultimate Ears Pro and IT Software Development" width="400" />
+      <img src="./assets/career-climb.svg" alt="An animated staircase showing the career climb at Logitech: Manufacturing, Analyst, then Full Stack Developer for Ultimate Ears Pro and IT Software Development" width="400" />
 
 **🏆 Awards & Honors**
 

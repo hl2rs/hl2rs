@@ -783,9 +783,10 @@ def build_projects():
 def build_career():
     W, H = 460, 400
     steps = [(["Manufacturing"], "Factory floor"), (["Analyst"], "Data & automation"),
-             (["Engineer"], "UE Pro automation"), (["Solutions", "Developer"], "UE Pro & IT")]
+             (["Full Stack", "Developer"], "UE Pro & IT")]
     T = 7
-    reach = [0.0, 0.2, 0.45, 0.7]
+    reach = [0.0, 0.3, 0.6]
+    sw, rise = 140, 96
     defs = [
         '<clipPath id="clip"><rect width="460" height="400" rx="18"/></clipPath>',
         grad("border", [AMBER, CORAL, PINK]),
@@ -807,18 +808,18 @@ def build_career():
             '<line x1="16" y1="372" x2="444" y2="372" stroke="#30363D"/>']
     tops = []
     for i, (role_lines, sub) in enumerate(steps):
-        x, top = 16 + i * 108, 314 - i * 72
-        cx = x + 52
+        x, top = 16 + i * (sw + 4), 314 - i * rise
+        cx = x + sw // 2
         tops.append((cx, top))
-        body += [f'<rect x="{x}" y="{top}" width="104" height="{372 - top}" rx="8" fill="url(#step)" '
-                 f'fill-opacity="{0.2 + i * 0.1:.2f}"/>',
-                 f'<rect class="s{i}" x="{x}" y="{top}" width="104" height="4" rx="2" fill="{AMBER}"/>']
+        body += [f'<rect x="{x}" y="{top}" width="{sw}" height="{372 - top}" rx="8" fill="url(#step)" '
+                 f'fill-opacity="{0.2 + i * 0.15:.2f}"/>',
+                 f'<rect class="s{i}" x="{x}" y="{top}" width="{sw}" height="4" rx="2" fill="{AMBER}"/>']
         y = top + 24
         for line in role_lines:
             body.append(txt(cx, y, line, 12.5, "#FFFFFF", 700, "middle"))
             y += 16
         body.append(txt(cx, y + 1, sub, 10.5, "#E6D5C3", anchor="middle"))
-    fx, ftop = tops[-1][0] + 36, tops[-1][1]
+    fx, ftop = tops[-1][0] + sw // 2 - 14, tops[-1][1]
     body += [f'<path d="M{fx} {ftop}V{ftop - 36}" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>',
              f'<path class="flag" d="M{fx} {ftop - 36}h20l-5 7 5 7h-20z" fill="{CORAL}"/>']
     path = f"M{tops[0][0]} {tops[0][1] - 10}"
@@ -826,13 +827,13 @@ def build_career():
         path += f"Q{(ax + bx) / 2} {by - 46} {bx} {by - 10}"
     # Begin mid-loop so the first frame shows the climber at the summit beside the flag.
     motion = (f'<animateMotion dur="{T}s" begin="-{T * 0.8:.1f}s" repeatCount="indefinite" path="{path}" calcMode="linear" '
-              'keyPoints="0;0;0.333;0.333;0.667;0.667;1;1" keyTimes="0;0.1;0.2;0.35;0.45;0.6;0.7;1"/>')
+              'keyPoints="0;0;0.5;0.5;1;1" keyTimes="0;0.1;0.3;0.4;0.6;1"/>')
     body += [f'<circle r="10" fill="{AMBER}" filter="url(#soft)">{motion}</circle>',
              f'<circle r="7" fill="url(#climber)">{motion}</circle>']
     body += ["</g>", '<rect x=".75" y=".75" width="458.5" height="398.5" rx="17.25" stroke="url(#border)" '
              'stroke-opacity=".6" stroke-width="1.5"/>']
-    write("career-climb.svg", svg_doc(W, H, "Career climb at Logitech: Manufacturing → Analyst → Engineer → "
-                                      "Solutions Developer for UE Pro & IT Software Development", defs, body, css))
+    write("career-climb.svg", svg_doc(W, H, "Career climb at Logitech: Manufacturing → Analyst → "
+                                      "Full Stack Developer for UE Pro & IT Software Development", defs, body, css))
 
 
 def build_interests():
