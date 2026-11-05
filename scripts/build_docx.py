@@ -198,7 +198,7 @@ p = para("LinkedIn: ", after=2)
 link(p, "https://www.linkedin.com/in/brendanstewart1", "https://www.linkedin.com/in/brendanstewart1")
 p = para("GitHub: ", after=2)
 link(p, "https://github.com/hl2rs", "https://github.com/hl2rs")
-para("Website: https://your-website.com (placeholder, to be replaced)")
+para("Website: https://platmesh.com")
 para("Thanks for stopping by!")
 
 doc.save(OUT)

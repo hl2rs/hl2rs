@@ -181,7 +181,7 @@ right, alternating between dark and light cards.</p>
 <li><span class="lbl">Email</span>
   <div class="c"><p><a href="mailto:hello@platmesh.com">hello@platmesh.com</a></p></div></li>
 <li><span class="lbl">Personal website</span>
-  <div class="c"><p>https://your-website.com (placeholder; to be replaced with the final address)</p>
+  <div class="c"><p>https://platmesh.com</p>
   <p>Also linked: LinkedIn &mdash; <a href="https://www.linkedin.com/in/brendanstewart1">linkedin.com/in/brendanstewart1</a>
   &nbsp;|&nbsp; GitHub &mdash; <a href="https://github.com/hl2rs">github.com/hl2rs</a></p></div></li>
 </ol></div>
